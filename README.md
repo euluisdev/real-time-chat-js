@@ -56,4 +56,5 @@ https://github.com/euluisdev/real-time-chat-js
 
 ## Licença
 - Este projeto está sob a Licença MIT.
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/euluisdev/real-time-chat-js/blob/master/LICENSE) - veja o arquivo LICENSE para detalhes.
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/euluisdev/real-time-chat-js/blob/master/LICENSE)
+- veja o arquivo LICENSE para detalhes.
