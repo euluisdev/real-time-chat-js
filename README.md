@@ -21,3 +21,36 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 
    ```bash
    git clone https://github.com/euluisdev/real-time-chat-js.git
+
+2. Instale as dependências:
+
+   ```bash
+   git clone npm isntall
+
+3. Inicie o servidor WebSocket::
+
+   ```bash
+   npm rum dev
+
+
+
+Abra o arquivo index.html em seu navegador para acessar o chat.
+
+Tecnologias Utilizadas
+HTML
+CSS
+JavaScript
+Node.js
+WebSocket (ws library)
+Estrutura do Projeto
+index.html: Página principal do chat.
+css/style.css: Estilos para a interface do usuário.
+js/script.js: Lógica do cliente WebSocket em JavaScript.
+server.js: Servidor WebSocket simples em Node.js.
+Contribuindo
+Sinta-se à vontade para contribuir para este projeto! Basta abrir uma issue ou enviar um pull request.
+
+Autor
+Seu Nome - Seu Perfil do GitHub
+Licença
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
