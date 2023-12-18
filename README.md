@@ -25,18 +25,16 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 2. Instale as dependências:
 
    ```bash
-   git clone npm isntall
+   npm isntall
 
 3. Inicie o servidor WebSocket::
 
    ```bash
    npm rum dev
+   
+4. Abra o arquivo `index.html` em seu navegador para acessar o chat.
 
-
-
-Abra o arquivo index.html em seu navegador para acessar o chat.
-
-Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 HTML
 CSS
 JavaScript
