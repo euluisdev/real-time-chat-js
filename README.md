@@ -51,7 +51,9 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 - Sinta-se à vontade para contribuir para este projeto! Basta abrir uma issue ou enviar um pull request.
 
 ## Autor
-Seu Nome - Seu Perfil do GitHub
+Luis Fernando de Albuquerque Figueiredo
+https://github.com/euluisdev/real-time-chat-js
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
+Este projeto está sob a Licença MIT.
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/euluisdev/real-time-chat-js/blob/master/LICENSE) - veja o arquivo LICENSE para detalhes.
