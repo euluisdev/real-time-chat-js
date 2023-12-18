@@ -35,11 +35,11 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 4. Abra o arquivo `index.html` em seu navegador para acessar o chat.
 
 ##  Tecnologias Utilizadas
-HTML
-CSS
-JavaScript
-Node.js
-WebSocket (ws library)
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- WebSocket (ws library)
 Estrutura do Projeto
 index.html: Página principal do chat.
 css/style.css: Estilos para a interface do usuário.
