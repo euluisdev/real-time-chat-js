@@ -141,3 +141,18 @@ body {
     border-radius: 10px 10px 0px 10px;
     align-self: flex-end;
 }
+
+/* msg-other */
+.msg-other {
+    background-color: #333;
+    color: #f2f2f2;
+    border-radius: 0px 10px 10px 10px;
+    align-self: flex-start;
+}
+
+.msg-sender {
+    display: block;
+    bottom: 15px;
+    font-weight: 700;
+    color: cadetblue;
+}
